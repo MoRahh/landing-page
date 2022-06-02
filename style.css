@@ -156,3 +156,10 @@ img {
     border-radius: 10px;
     color: white;
 }
+
+footer {
+    background-color: #1f2937;
+    padding: 2%;
+    color: gray;
+    text-align: center;
+}
